@@ -7,3 +7,4 @@ We used Blynk IOT platform for enabling remote control from anywhere on the plan
 For code explaination and demo
 https://youtu.be/DBmb8sdDmzU - code explaination
 https://youtu.be/ceDmHSrsUCw - Blynk Demo
+![image](https://github.com/user-attachments/assets/00ae64cc-48f8-4369-8970-7e8fb631bdeb)
